@@ -1,6 +1,6 @@
-Hi, my name is Alexander Liu. I am currently at Princeton University, studying Computer Science 💻 and minoring in Statistics & Machine Learning alongside Philosophy. 
+Hi, my name is Alexander Liu. I am currently at Princeton University, studying Computer Science 💻 and minoring in Statistics & Machine Learning alongside Philosophy📖. 
 
-Outside of the classroom, I am a fencer on the US National Team, a U20 World Cup Champion, National Champion, North American Cup Champion, and Division 1 Student-Athlete on the Varsity Princeton Fencing Team. 
+Outside of the classroom, I am a fencer on the US National Team, a U20 World Cup Champion, National Champion, North American Cup Champion, and Division 1 Student-Athlete on the Varsity Princeton Fencing Team🤺. 
 - 📫 How to reach me: alexliu@princeton.edu or [LinkedIn](www.linkedin.com/in/alexander-liu12)
 
 
